@@ -1,4 +1,4 @@
-require 'spec_helper'
+filter_parameter_logging require 'spec_helper'
 
 describe 'collections practice vol 2.' do
 
